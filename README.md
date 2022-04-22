@@ -4,7 +4,7 @@ Just quick note to add \deluxtable packge to the GSU dissertation template.
 
 The orginal script was copied from here: https://fits.gsfc.nasa.gov/standard30/deluxetable.sty 
 
-Although there were some issues with the table placements. So I made the changes. Use the given file instead and follow the steps below.
+Although there were some issues with the table placements. So I made some changes in the code. Use the given file instead and follow the steps below.
 
 (1) Create a /deluxetable.sty in the 'main' directory or any other directory; just give the path. and copy the whole script from the given file.
 
