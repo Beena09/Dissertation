@@ -1,4 +1,4 @@
-# Dissertation
+# GSU Dissertation
 
 Just quick note to add \deluxtable packge to the GSU dissertation template. 
 
