@@ -1,6 +1,6 @@
 # GSU Dissertation
 
-Just quick note to add \deluxtable packge to the GSU dissertation template. 
+Just a quick note to add \deluxtable packge to the GSU dissertation template. 
 
 The orginal script was copied from here: https://fits.gsfc.nasa.gov/standard30/deluxetable.sty 
 
